@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PrintRangeTests" tests="3" skipped="0" failures="3" errors="0" timestamp="2021-11-09T23:54:47" hostname="DESKTOP-IVU08AF" time="0.004">
+<testsuite name="PrintRangeTests" tests="3" skipped="0" failures="3" errors="0" timestamp="2021-11-09T23:55:42" hostname="DESKTOP-IVU08AF" time="0.004">
   <properties/>
   <testcase name="printRangeEmpty()" classname="PrintRangeTests" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError
@@ -97,7 +97,7 @@
 	at java.lang.Thread.run(Thread.java:748)
 </failure>
   </testcase>
-  <testcase name="printRangeNegative()" classname="PrintRangeTests" time="0.002">
+  <testcase name="printRangeNegative()" classname="PrintRangeTests" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:35)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:98)
