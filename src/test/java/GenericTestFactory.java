@@ -599,7 +599,6 @@ public final class GenericTestFactory {
                             } else
                                 realOutput = method.invoke(instance, currentPermutation.toArray());
 
-
                             if (expectedOutput.equals(realOutput)) {
                                 assertEquals(expectedOutput, realOutput);
                                 return;

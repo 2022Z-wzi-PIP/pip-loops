@@ -1,4 +1,12 @@
 GenericTestFactory.java
  GenericTestFactory
-TestClass.java
- TestClass
+IsPalindromeTests.java
+ IsPalindromeTests
+IsPrimeTests.java
+ IsPrimeTests
+PrintRangeTests.java
+ PrintRangeTests
+SumDivisibleTests.java
+ SumDivisibleTests
+GetFactorialTests.java
+ GetFactorialTests

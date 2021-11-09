@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrintRangeTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-09T23:53:55" hostname="DESKTOP-IVU08AF" time="0.005">
+  <properties/>
+  <testcase name="printRangeEmpty()" classname="PrintRangeTests" time="0.002"/>
+  <testcase name="printRangeNegative()" classname="PrintRangeTests" time="0.001"/>
+  <testcase name="printRangeCorrect()" classname="PrintRangeTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
